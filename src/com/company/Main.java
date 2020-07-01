@@ -7,6 +7,6 @@ public class Main {
         System.out.println ("Second Commit");
 
         System.out.println ("Chenged on GitHub");
-        System.out.println ("Chenged on GitHub");
+        System.out.println ("Chenged on IDE");
     }
 }
